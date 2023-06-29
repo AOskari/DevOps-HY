@@ -1,7 +1,7 @@
 # Exercise 3.6 - 3.9    
 
 ## Exercise 3.6
-
+```sh
 Size before changes: 
 REPOSITORY                                   SIZE
 35-frontend                                  1.14GB
@@ -12,8 +12,10 @@ REPOSITORY                                   SIZE
 36-frontend                                  1.14GB
 36-backend                                   1.26GB
 
-## Exercise 3.7
+```
 
+## Exercise 3.7
+```sh
 Size before changes:
 REPOSITORY                                   SIZE
 36-frontend                                  1.14GB
@@ -24,8 +26,10 @@ REPOSITORY                                   SIZE
 36-frontend                                  766MB
 36-backend                                   840MB
 
-## Exercise 3.8
+```
 
+## Exercise 3.8
+```sh
 Size before builder pattern:
 REPOSITORY                                   SIZE 
 36-frontend                                  766MB
@@ -34,7 +38,10 @@ Size after builder pattern:
 REPOSITORY                                   SIZE 
 36-frontend                                  490MB
 
+```
+
 ## Exercise 3.9
+```sh
 Size before builder pattern & scratch:
 REPOSITORY                                   SIZE 
 36-backend                                   840MB
@@ -42,3 +49,4 @@ REPOSITORY                                   SIZE
 Size after builder pattern & scratch:
 REPOSITORY                                   SIZE 
 36-backend                                   18MB
+```
