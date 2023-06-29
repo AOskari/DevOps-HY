@@ -1,5 +1,8 @@
 # Exercise 3.6 - 3.9    
 
+[Frontend Dockerfile](URL)
+[Backend Dockerfile](URL)
+
 ## Exercise 3.6
 ```sh
 Size before changes: 
