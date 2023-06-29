@@ -28,6 +28,7 @@ REPOSITORY                                   SIZE
 
 ```
 
+https://github.com/AOskari/DevOps-HY/blob/master/Part-3/3.6/backend/Dockerfile
 ## Exercise 3.8
 ```sh
 Size before builder pattern:
