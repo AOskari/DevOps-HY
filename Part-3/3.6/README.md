@@ -1,7 +1,8 @@
 # Exercise 3.6 - 3.9    
-
-Line [Frontend Dockerfile]([URL](https://github.com/AOskari/DevOps-HY/blob/master/Part-3/3.6/frontend/Dockerfile)) 
-Line [Backend Dockerfile]([URL](https://github.com/AOskari/DevOps-HY/blob/master/Part-3/3.6/backend/Dockerfile))
+| Dockerfiles        |
+| ------------- |
+[Frontend Dockerfile](https://github.com/AOskari/DevOps-HY/blob/master/Part-3/3.6/frontend/Dockerfile)
+[Backend Dockerfile](https://github.com/AOskari/DevOps-HY/blob/master/Part-3/3.6/backend/Dockerfile)
 
 ## Exercise 3.6
 ```sh
