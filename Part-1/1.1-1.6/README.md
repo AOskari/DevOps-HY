@@ -1,6 +1,6 @@
-## Answers for exercises 1.1 - 1.16
+# Answers for exercises 1.1 - 1.16
 
-# Exercise 1.1
+## Exercise 1.1
 ```sh
 docker ps -a
 CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                      PORTS     NAMES
@@ -10,7 +10,7 @@ ccfbcafd6eda   nginx     "/docker-entrypoint.…"   About a minute ago   Exited 
 793c59928c8e   nginx     "/docker-entrypoint.…"   8 minutes ago        Exited (0) 6 minutes ago              elated_lederberg
 ```
 
-# Exercise 1.2
+## Exercise 1.2
 ```sh
 docker ps -a
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
@@ -18,7 +18,7 @@ docker images
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
 ```
 
-# Exercise 1.3
+## Exercise 1.3
 
 ```sh
 docker run -it -d --name asd devopsdockeruh/simple-web-service:ubuntu
@@ -36,7 +36,7 @@ root@e0e2eabe370d:/usr/src/app# tail -f ./text.log
 Secret message is: 'You can find the source code here: https://github.com/docker-hy'
 ```
 
-# Exercise 1.4
+## Exercise 1.4
 
 ```sh
 docker run -it ubuntu
@@ -55,7 +55,7 @@ Searching..
 </html>
 ```
 
-# Exercise 1.5
+## Exercise 1.5
 ```sh
 devopsdockeruh/simple-web-service   ubuntu    4e3362e907d5   2 years ago   83MB
 devopsdockeruh/simple-web-service   alpine    fd312adc88e0   2 years ago   15.7MB
@@ -63,7 +63,7 @@ docker run -d -it --name alpine devopsdockeruh/simple-web-service:alpine
 docker exec -it alpine sh
 ```
 
-# Exercise 1.6
+## Exercise 1.6
 ```sh
 docker run -it devopsdockeruh/pull_exercise
 Give me the password: basics
