@@ -1,7 +1,7 @@
 # Exercise 3.6 - 3.9    
 
-[Frontend Dockerfile](URL)
-[Backend Dockerfile](URL)
+Line [Frontend Dockerfile]([URL](https://github.com/AOskari/DevOps-HY/blob/master/Part-3/3.6/frontend/Dockerfile)) 
+Line [Backend Dockerfile]([URL](https://github.com/AOskari/DevOps-HY/blob/master/Part-3/3.6/backend/Dockerfile))
 
 ## Exercise 3.6
 ```sh
