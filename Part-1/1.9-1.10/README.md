@@ -1,4 +1,4 @@
-# Answers for exercises 1.1 - 1.16
+# Answers for exercises 1.9 - 1.10
 
 ## Exercise 1.9
 ```sh
